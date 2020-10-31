@@ -4,6 +4,6 @@ export interface HttpResponse {
 
 }
 
-export interface HttpRequest{
+export interface HttpRequest {
   body?: any
 }
